@@ -21,12 +21,11 @@ A powerful, intuitive full‑stack web app that uses HuggingFace API to instantl
 Below are snapshots of the app in action:
 
 **Home / Browse Community**  
-![Home page screenshot](<img width="1873" height="952" alt="Screenshot 2025-06-20 235118" src="https://github.com/user-attachments/assets/220e8dec-31fa-48e0-b7f1-28166f4169d1" />
-)
+<img width="1873" height="952" alt="Screenshot 2025-06-20 235118" src="https://github.com/user-attachments/assets/6fa598cc-c227-4da4-b24a-8d0c4268511f" />
+
 
 **Search & Community Display**  
-![Search results screenshot](<img width="1871" height="936" alt="Screenshot 2025-06-20 235042" src="https://github.com/user-attachments/assets/723dd027-82be-44fa-8490-8cff2387bf10" />
-)
+<img width="1871" height="936" alt="Screenshot 2025-06-20 235042" src="https://github.com/user-attachments/assets/82dc6015-c305-493a-8a95-99692ec24e45" />
 
 ---
 

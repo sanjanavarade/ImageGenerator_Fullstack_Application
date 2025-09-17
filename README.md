@@ -5,7 +5,7 @@
 A powerful, intuitive full‑stack web app that uses HuggingFace API to instantly generate high‑quality images from text prompts. Inspired by Mid‑Journey and crafted with the MERN stack.
 
 ---
-Live Link: https://github.com/sanjanavarade/ImageGenerator_Fullstack_Application
+Live Link: https://parth-more-image-generator-89h8.vercel.app/
 
 ## 🚀 Demo
 
